@@ -126,6 +126,7 @@ The raw dataset was transformed into a dimensional model using the **Star Schema
 <p align="center">
 <img src="Images/bnb city.png" width="900">
 </p>
+
 ### Insights
 
 - Compare average prices between cities
