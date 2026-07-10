@@ -92,7 +92,7 @@ The raw dataset was transformed into a dimensional model using the **Star Schema
 ### Star Schema
 
 <p align="center">
-<img src="Images/star_schema.png" width="900">
+<img src="Images/star schema.png" width="900">
 </p>
 
 ---
@@ -100,7 +100,7 @@ The raw dataset was transformed into a dimensional model using the **Star Schema
 # 📊 Dashboard Overview
 
 <p align="center">
-<img src="Images/overview.png" width="900">
+<img src="Images/bnb overview.png" width="900">
 </p>
 
 ### KPIs
@@ -124,9 +124,8 @@ The raw dataset was transformed into a dimensional model using the **Star Schema
 # 🌍 City Analysis
 
 <p align="center">
-<img src="Images/city.png" width="900">
+<img src="Images/bnb city.png" width="900">
 </p>
-
 ### Insights
 
 - Compare average prices between cities
@@ -140,7 +139,7 @@ The raw dataset was transformed into a dimensional model using the **Star Schema
 # 🛏 Room Analysis
 
 <p align="center">
-<img src="Images/room.png" width="900">
+<img src="Images/bnb room.png" width="900">
 </p>
 
 ### Insights
@@ -154,9 +153,8 @@ The raw dataset was transformed into a dimensional model using the **Star Schema
 ---
 
 # 📍 Location Analysis
-
 <p align="center">
-<img src="Images/location.png" width="900">
+<img src="Images/loc bnb.png" width="900">
 </p>
 
 ### Insights
